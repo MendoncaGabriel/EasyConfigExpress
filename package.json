@@ -1,7 +1,10 @@
 {
   "name": "easyconfigexpress",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
+  "description": "modulo para criar ambiente express com ejs, tailwindcss, bcryptjs, jwt e muito mais",
+  "author": {"name": "Gabriel Andrade", "email": "gabriel.andrade05081997@gmail.com"},
+  "license": "MIT",
   "scripts": {
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
